@@ -1,4 +1,4 @@
-# Summary
+# SUMMARY
 
 * [Introduction](./)
 * [开篇词-这一次，让我们一起来搞懂MySQL.md](kai-pian-ci-zhe-yi-ci-rang-wo-men-yi-qi-lai-gao-dong-mysql.md)
@@ -15,7 +15,6 @@
 * [11-怎么给字符串字段加索引？.md](11-zen-mo-gei-zi-fu-chuan-zi-duan-jia-suo-yin.md)
 * [12-为什么我的MySQL会“抖”一下？.md](12-wei-shi-mo-wo-de-mysql-hui-dou-yi-xia.md)
 * [13-为什么表数据删掉一半，表文件大小不变？.md](13-wei-shi-mo-biao-shu-ju-shan-diao-yi-ban-biao-wen-jian-da-xiao-bu-bian.md)
-* \[14-count这么慢，我该怎么办？.md\]\(14-count这么慢，我该怎么办？.md\)
 * [15-答疑文章（一）日志和索引相关问题.md](15-da-yi-wen-zhang-yi-ri-zhi-he-suo-yin-xiang-guan-wen-ti.md)
 * [直播回顾-林晓斌我的MySQL心路历程.md](zhi-bo-hui-gu-lin-xiao-bin-wo-de-mysql-xin-lu-li-cheng.md)
 * [16-“orderby”是怎么工作的？.md](16orderby-shi-zen-mo-gong-zuo-de.md)
