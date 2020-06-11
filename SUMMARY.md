@@ -1,6 +1,6 @@
-# SUMMARY
+# Table of contents
 
-* [Introduction](README.md
+* [Introduction](README.md)
 * [开篇词-这一次，让我们一起来搞懂MySQL](be2f3108d20147a08b33a1b92c95073f.md)
 * [01-基础架构一条SQL查询语句是如何执行的？](5b8e75b00ba54aff8417c753b82030c3.md)
 * [02-日志系统一条SQL更新语句是如何执行的？](5f336abd18ea404d8ee8350aa4c3c0d5.md)
@@ -15,7 +15,7 @@
 * [11-怎么给字符串字段加索引？](b6092b4d2b01478e9fab2ba0a070a6ef.md)
 * [12-为什么我的MySQL会“抖”一下？](8205bf0a69614f0f9f0fea47aba4a3d1.md)
 * [13-为什么表数据删掉一半，表文件大小不变？](0ae238c425844797baf6b32ef5e02527.md)
-* [14-count()这么慢，我该怎么办？](f93144de8152406a8a168d87964e16c0.md)
+* [14-count\(\)这么慢，我该怎么办？](f93144de8152406a8a168d87964e16c0.md)
 * [15-答疑文章（一）日志和索引相关问题](9a73e505f72a412c94e5a01bb8652eb2.md)
 * [16-“orderby”是怎么工作的？](cf79b095b36447f0ae7a9e5b47f149e3.md)
 * [17-如何正确地显示随机消息？](fa154b1f256241a1bbea9601c46e57bc.md)
@@ -50,3 +50,4 @@
 * [直播回顾-林晓斌我的MySQL心路历程](5b528a51cf474c6982ad1b56dba8ce76.md)
 * [结束语-点线网面，一起构建MySQL知识网络](c889569282a34666b0d655d413b1cb2e.md)
 * [结课测试这些MySQL知识你都掌握了吗？](ccc3208affb54ca6917824b7abf63bc2.md)
+
