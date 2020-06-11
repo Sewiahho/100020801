@@ -1,4 +1,4 @@
-# Introduction
+# MySQL实战45讲
 
 名称：MySQL实战45讲
 
@@ -10,7 +10,7 @@
 
 作者简介：网名丁奇，前阿里资深技术专家
 
-音频链接：[https://pan.baidu.com/s/1nhu9\_TmJ-ikD4sHVUS1LXg](https://pan.baidu.com/s/1nhu9_TmJ-ikD4sHVUS1LXg)
+音频链接：https://pan.baidu.com/s/1nhu9_TmJ-ikD4sHVUS1LXg
 
 提取码：6jmw
 
